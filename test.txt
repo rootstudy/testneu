@@ -1,3 +1,4 @@
 hello test.txt new 
 add some local data
 add some remote data
+add local gui data
